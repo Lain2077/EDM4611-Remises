@@ -22,3 +22,7 @@ Cette exploration m'a aidé à comprendre le potentiel infini de l'amassement de
 Au courant de l'ajustement des noises et du feedback loop, plusieurs résultats extrêmement différents ont vu le jour. Je pense que ce que j'ai comme noise system est une excellente base pour
 tout concept entourant des particules. Petite question sur le coup: est-il possible d'une façon ou d'une autre d'avoir un CHOP a plusieurs samples (comme les noises dans ce cas), mais qui 
 contiennent chacun un LFO?
+
+NB: Pour des raisons de sécurité, j'ai retiré la clé api du patch. Clé disponible ici: https://uqam-my.sharepoint.com/:t:/g/personal/jd091965_ens_uqam_ca/EYatJ892_RhDrt_dhQR9i1IB8mlTxL_bs7clKTJzhqTSjw?e=xxh7n9
+Mot de passe: ton username github (case sensitive)
+A coller dans la row respective de x-api-key
