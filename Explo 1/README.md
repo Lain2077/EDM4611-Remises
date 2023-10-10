@@ -1,4 +1,4 @@
-##COMPTE RENDU
+<h1>COMPTE RENDU</h1>
 
 Suite à quelques explorations avec le WebClient DAT, et une idée de base d'aller récuperer des données sur Internet, j'ai décidé d'utiliser une API pour amasser de l'information sur la
 quantité de pollen dans une région donnée. Ainsi, dépendemment de la quantité et du type de pollen, plusieurs particules représentes les données reçues à l'écran. 
